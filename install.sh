@@ -1,3 +1,5 @@
+# check if effective user id is 0 (root)
+
 if [[ "$(id -u)" -eq 0 ]]; then
 	echo "Script is running as root"
 	# check if apt is package manager
