@@ -31,3 +31,5 @@ else
 	echo "Script is not running as root, exiting..." 1>&2
 	exit 1
 fi
+
+git config --global help.autocorrect 1
