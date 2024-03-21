@@ -35,8 +35,8 @@ fi
 #symbolic links
 
 #git
-ln -sfb /Users/brendonbertsch/Documents/GitHub/dotfiles/git ~/.gitconfig
+ln -s /Users/brendonbertsch/Documents/GitHub/dotfiles/git ~/.gitconfig
 
 #ssh
-ln -sfb /Users/brendonbertsch/Documents/GitHub/dotfiles/ssh/authorized_keys ~/.gitconfig/autherized_keys
-ln -sfb /Users/brendonbertsch/Documents/GitHub/dotfiles/ssh/config ~/.gitconfig/config
+ln -s /Users/brendonbertsch/Documents/GitHub/dotfiles/ssh/authorized_keys ~/.ssh/authorized_keys
+ln -s /Users/brendonbertsch/Documents/GitHub/dotfiles/ssh/config ~/.ssh/config
