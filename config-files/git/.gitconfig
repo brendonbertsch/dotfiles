@@ -5,3 +5,5 @@
 [core]
     editor = vim
 
+ln -sfb /Users/brendonbertsch/Documents/GitHub/dotfiles ~/.gitconfig
+
