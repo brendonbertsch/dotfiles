@@ -32,4 +32,11 @@ else
 	exit 1
 fi
 
-git config --global help.autocorrect 1
+#symbolic links
+
+#git
+ln -sfb /Users/brendonbertsch/Documents/GitHub/dotfiles/git ~/.gitconfig
+
+#ssh
+ln -sfb /Users/brendonbertsch/Documents/GitHub/dotfiles/ssh/authorized_keys ~/.gitconfig/autherized_keys
+ln -sfb /Users/brendonbertsch/Documents/GitHub/dotfiles/ssh/config ~/.gitconfig/config

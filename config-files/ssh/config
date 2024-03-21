@@ -1,0 +1,5 @@
+Host fry
+	User w015bbb
+	HostName fry.cs.wright.edu
+	IdentityFile /Users/brendonbertsch/.ssh/id_ed25519
+	Port 22

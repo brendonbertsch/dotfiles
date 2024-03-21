@@ -5,5 +5,4 @@
 [core]
     editor = vim
 
-ln -sfb /Users/brendonbertsch/Documents/GitHub/dotfiles ~/.gitconfig
-
+git config --global help.autocorrect 1
