@@ -39,3 +39,6 @@ ln -s /Users/brendonbertsch/Documents/GitHub/dotfiles/git ~/.gitconfig
 #ssh
 ln -s /Users/brendonbertsch/Documents/GitHub/dotfiles/ssh/authorized_keys ~/.ssh/authorized_keys
 ln -s /Users/brendonbertsch/Documents/GitHub/dotfiles/ssh/config ~/.ssh/config
+
+#.bashrc
+ln -s /Users/brendonbertsch/Documents/GitHub/dotfiles/.bashrc ~/.bashrc
