@@ -33,7 +33,6 @@ else
 fi
 
 #symbolic links
-
 #git
 ln -s /Users/brendonbertsch/Documents/GitHub/dotfiles/git ~/.gitconfig
 
