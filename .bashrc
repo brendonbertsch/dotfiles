@@ -8,4 +8,4 @@ alias bu='brew update'
 alias bug='brew upgrade'
 
 echo "alialses have been set!"
-echo "check .bashrc file to vire aliases"
+echo "check .bashrc file to view aliases"
