@@ -1,2 +1,12 @@
 # dotfiles
-bbertsch user dotfiles
+bbertsch user dotfiles for school
+
+## In this repository
+### Configs
+- git config
+- ssh config 
+- vim configs
+
+### bash
+- .bashrc (just aliases)
+- install.sh (for general installs ran as root)
