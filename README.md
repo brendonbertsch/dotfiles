@@ -7,6 +7,6 @@ bbertsch user dotfiles for school
 - ssh config 
 - vim configs
 
-### bash
+### Bash
 - .bashrc (just aliases)
 - install.sh (for general installs ran as root)
